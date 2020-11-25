@@ -2,7 +2,7 @@ def using_concat(other_ary1, other_ary2)
   (other_ary1.concat other_ary2).concat
 end
 
-def using_insert(array, integer)
+def using_insert(array, element)
   array.insert(element)
 end
 
